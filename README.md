@@ -6,5 +6,5 @@
 * Server: XAMPP (Apache, MySQL, PHP)
 * Version Control: Git
 # Installation
-1, Clone the repository:
+1, Clone the repository:<br/>
 git clone https://github.com/your-username/courier-management-system.git
