@@ -6,4 +6,4 @@
 * Server: XAMPP (Apache, MySQL, PHP)
 * Version Control: Git
 # Installation
-$ Clone the repository:
+1, Clone the repository:
